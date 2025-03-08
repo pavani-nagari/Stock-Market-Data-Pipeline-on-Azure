@@ -114,8 +114,4 @@ I built this end-to-end data pipeline to handle **real-time stock market data** 
   2. Set up **Azure Monitor** to track the pipeline, Stream Analytics jobs, and Databricks clusters.
   3. Created alerts for any failures or anomalies.
 
----
-
-### **Project Flowchart**
-
 
